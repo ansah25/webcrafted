@@ -73,4 +73,4 @@ webcrafted/ ├── index.html ├── about.html ├── contact.html ├
 
 ## 🙌 Acknowledgments
 
-- Thanks to [Net Ninja] (https://netninja.dev/)for amazing beginner tutorials.
+- Thanks to [Net Ninja] (https://netninja.dev) for amazing beginner tutorials.
